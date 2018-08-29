@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Class-Path: spring-beans-4.1.7.RELEASE.jar netty-3.2.5.Final.jar sprin
+ g-context-4.1.7.RELEASE.jar spring-aop-4.1.7.RELEASE.jar spring-web-4
+ .1.7.RELEASE.jar spring-webmvc-4.1.7.RELEASE.jar aopalliance-1.0.jar 
+ spring-tx-4.1.7.RELEASE.jar spring-2.5.6.SEC03.jar spring-core-4.1.7.
+ RELEASE.jar javassist-3.15.0-GA.jar commons-logging-1.2.jar spring-co
+ ntext-support-4.1.7.RELEASE.jar spring-expression-4.1.7.RELEASE.jar d
+ ubbo-2.5.3.jar
+Main-Class: 
+
